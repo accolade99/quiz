@@ -105,6 +105,12 @@ function Quiz(questions) {
       ["Zeta", "Delta", "Alpha", "Epsilon"],
       "Delta"
     ),
+	new Question(
+      "The part of a lever that does the work is the....?",
+      ["pulley", "effort", "load", "fulcrum"],
+      "load"
+    ),
+      
   ];
   
   // Create quiz
